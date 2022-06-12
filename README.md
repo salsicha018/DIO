@@ -1,5 +1,5 @@
 # Repositório do desafio de projeto sobre Git/Github
 
-##Considerações Iniciais:
+## Considerações Iniciais:
 
-  Esse repositório ainda está apenas começando
+  Esse repositório ainda está apenas começando.
